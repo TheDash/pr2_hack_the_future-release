@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-hack-the-future
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-hack-the-future
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-hack-the-web-program-executor, ros-hydro-pr2-joint-teleop, ros-hydro-pr2-simple-interface, ros-hydro-program-queue, ros-hydro-queue-web, ros-hydro-rviz-backdrop, ros-hydro-slider-gui
+Description: The pr2_hack_the_future package
