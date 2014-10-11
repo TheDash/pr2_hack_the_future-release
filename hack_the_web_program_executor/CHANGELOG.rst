@@ -2,6 +2,11 @@
 Changelog for package hack_the_web_program_executor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.7 (2014-10-11)
+------------------
+* Moved nodes -> scripts/ dir
+* Contributors: TheDash
+
 1.0.5 (2014-09-17)
 ------------------
 
