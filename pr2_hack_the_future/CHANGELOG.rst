@@ -2,6 +2,12 @@
 Changelog for package pr2_hack_the_future
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.7 (2014-10-11)
+------------------
+* Deprecated web_interface and robosite
+* Updated metapackage run_dependS
+* Contributors: TheDash
+
 1.0.5 (2014-09-17)
 ------------------
 
